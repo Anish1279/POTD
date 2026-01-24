@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Anish1279/Anonymous/tree/master/1390-four-divisors) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Anish1279/Anonymous/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anish1279/Anonymous/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
