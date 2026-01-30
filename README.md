@@ -178,6 +178,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Anish1279/Anonymous/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -203,4 +204,12 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Anish1279/Anonymous/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Anish1279/Anonymous/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
