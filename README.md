@@ -58,6 +58,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anish1279/Anonymous/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
+| [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Anish1279/Anonymous/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -116,6 +117,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anish1279/Anonymous/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anish1279/Anonymous/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 ## Geometry
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anish1279/Anonymous/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anish1279/Anonymous/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anish1279/Anonymous/tree/master/3074-apple-redistribution-into-boxes) |
+| [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +194,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
+| [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
