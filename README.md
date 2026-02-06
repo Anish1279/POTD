@@ -63,6 +63,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
@@ -157,6 +158,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 ## Enumeration
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 ## Simulation
 |  |
 | ------- |
