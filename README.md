@@ -63,6 +63,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anish1279/Anonymous/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anish1279/Anonymous/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anish1279/Anonymous/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
 |  |
 | ------- |
