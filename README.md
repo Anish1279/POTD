@@ -34,6 +34,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/Anish1279/Anonymous/tree/master/0474-ones-and-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anish1279/Anonymous/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Anish1279/Anonymous/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Anish1279/Anonymous/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
@@ -77,6 +78,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Anish1279/Anonymous/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anish1279/Anonymous/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Anish1279/Anonymous/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anish1279/Anonymous/tree/master/3074-apple-redistribution-into-boxes) |
@@ -96,6 +98,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/Anish1279/Anonymous/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anish1279/Anonymous/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Anish1279/Anonymous/tree/master/0756-pyramid-transition-matrix) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Anish1279/Anonymous/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anish1279/Anonymous/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anish1279/Anonymous/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
