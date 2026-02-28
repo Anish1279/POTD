@@ -133,6 +133,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anish1279/Anonymous/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Anish1279/Anonymous/tree/master/1390-four-divisors) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anish1279/Anonymous/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
@@ -216,6 +217,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/Anish1279/Anonymous/tree/master/0756-pyramid-transition-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anish1279/Anonymous/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anish1279/Anonymous/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anish1279/Anonymous/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Counting
@@ -228,6 +230,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Anish1279/Anonymous/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anish1279/Anonymous/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
