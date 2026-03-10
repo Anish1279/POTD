@@ -86,6 +86,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anish1279/Anonymous/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anish1279/Anonymous/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anish1279/Anonymous/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Anish1279/Anonymous/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Anish1279/Anonymous/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/Anish1279/Anonymous/tree/master/2536-increment-submatrices-by-one) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anish1279/Anonymous/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
