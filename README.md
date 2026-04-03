@@ -11,6 +11,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +99,7 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anish1279/Anonymous/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anish1279/Anonymous/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anish1279/Anonymous/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -318,6 +322,7 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Anish1279/Anonymous/tree/master/0190-reverse-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
@@ -331,4 +336,8 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anish1279/Anonymous/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
