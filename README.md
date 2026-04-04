@@ -134,6 +134,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anish1279/Anonymous/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anish1279/Anonymous/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Anish1279/POTD/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anish1279/Anonymous/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anish1279/Anonymous/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -258,6 +259,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Anish1279/Anonymous/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anish1279/Anonymous/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anish1279/Anonymous/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Anish1279/POTD/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
