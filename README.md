@@ -87,6 +87,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anish1279/POTD/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/Anish1279/Anonymous/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anish1279/Anonymous/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -155,6 +156,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anish1279/Anonymous/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Anish1279/POTD/tree/master/0070-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anish1279/Anonymous/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
@@ -347,4 +349,8 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anish1279/POTD/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
