@@ -79,6 +79,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Anish1279/Anonymous/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Anish1279/POTD/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anish1279/POTD/tree/master/3546-equal-sum-grid-partition-i) |
@@ -187,6 +188,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anish1279/Anonymous/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3453-separate-squares-i](https://github.com/Anish1279/Anonymous/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Anish1279/POTD/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anish1279/Anonymous/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3488-closest-equal-element-queries](https://github.com/Anish1279/POTD/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
