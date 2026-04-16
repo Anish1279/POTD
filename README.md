@@ -86,6 +86,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anish1279/Anonymous/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anish1279/POTD/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -340,6 +341,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/Anish1279/Anonymous/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anish1279/POTD/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
