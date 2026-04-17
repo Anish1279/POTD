@@ -88,6 +88,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anish1279/POTD/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anish1279/POTD/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anish1279/Anonymous/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anish1279/Anonymous/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anish1279/POTD/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anish1279/POTD/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Enumeration
 |  |
 | ------- |
