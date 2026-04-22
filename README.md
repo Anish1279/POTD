@@ -93,6 +93,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anish1279/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Anish1279/POTD/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Anish1279/POTD/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
@@ -135,6 +136,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anish1279/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/Anish1279/Anonymous/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Anish1279/Anonymous/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Anish1279/POTD/tree/master/0657-robot-return-to-origin) |
@@ -314,6 +316,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anish1279/POTD/tree/master/0005-longest-palindromic-substring) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anish1279/Anonymous/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anish1279/Anonymous/tree/master/2300-successful-pairs-of-spells-and-potions) |
