@@ -151,6 +151,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anish1279/Anonymous/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anish1279/POTD/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anish1279/POTD/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Anish1279/POTD/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anish1279/Anonymous/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anish1279/Anonymous/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -276,6 +277,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/Anish1279/POTD/tree/master/2833-furthest-point-from-origin) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 ## Simulation
