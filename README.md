@@ -152,6 +152,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Anish1279/POTD/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anish1279/Anonymous/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Anish1279/Anonymous/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/Anish1279/POTD/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anish1279/Anonymous/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anish1279/Anonymous/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anish1279/Anonymous/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -396,4 +397,8 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anish1279/POTD/tree/master/2452-words-within-two-edits-of-dictionary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Anish1279/POTD/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
