@@ -41,6 +41,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anish1279/POTD/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Anish1279/POTD/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
@@ -128,6 +129,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anish1279/POTD/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Anish1279/POTD/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
@@ -178,6 +180,7 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Anish1279/POTD/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anish1279/Anonymous/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anish1279/POTD/tree/master/0070-climbing-stairs) |
