@@ -94,6 +94,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anish1279/POTD/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/Anish1279/POTD/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anish1279/POTD/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anish1279/POTD/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -114,6 +115,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anish1279/Anonymous/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anish1279/Anonymous/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3660-jump-game-ix](https://github.com/Anish1279/POTD/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anish1279/POTD/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
