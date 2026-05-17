@@ -47,6 +47,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Anish1279/POTD/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anish1279/POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/Anish1279/POTD/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/Anish1279/Anonymous/tree/master/0474-ones-and-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anish1279/Anonymous/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
@@ -108,6 +109,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Anish1279/POTD/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Anish1279/POTD/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Anish1279/POTD/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/Anish1279/Anonymous/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anish1279/Anonymous/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Anish1279/POTD/tree/master/0788-rotated-digits) |
