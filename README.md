@@ -73,6 +73,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anish1279/Anonymous/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anish1279/POTD/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2536-increment-submatrices-by-one](https://github.com/Anish1279/Anonymous/tree/master/2536-increment-submatrices-by-one) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Anish1279/POTD/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Anish1279/POTD/tree/master/2615-sum-of-distances) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anish1279/Anonymous/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anish1279/POTD/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -317,6 +318,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anish1279/POTD/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Anish1279/POTD/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Anish1279/Anonymous/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
