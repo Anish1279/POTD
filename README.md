@@ -173,6 +173,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anish1279/POTD/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Anish1279/POTD/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anish1279/Anonymous/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Anish1279/POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anish1279/Anonymous/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Stack
@@ -253,6 +254,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2615-sum-of-distances](https://github.com/Anish1279/POTD/tree/master/2615-sum-of-distances) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Anish1279/POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Anish1279/POTD/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
