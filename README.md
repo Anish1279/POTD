@@ -129,6 +129,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anish1279/POTD/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anish1279/Anonymous/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3660-jump-game-ix](https://github.com/Anish1279/POTD/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anish1279/POTD/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anish1279/POTD/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
@@ -302,6 +303,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/Anish1279/POTD/tree/master/2615-sum-of-distances) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anish1279/Anonymous/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anish1279/POTD/tree/master/3546-equal-sum-grid-partition-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anish1279/POTD/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
