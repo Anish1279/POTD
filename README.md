@@ -107,6 +107,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3660-jump-game-ix](https://github.com/Anish1279/POTD/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anish1279/POTD/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anish1279/POTD/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anish1279/POTD/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
@@ -278,6 +279,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anish1279/POTD/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Enumeration
 |  |
@@ -290,6 +292,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sweep Line
 |  |
 | ------- |
@@ -306,6 +309,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/Anish1279/POTD/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anish1279/POTD/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -329,6 +333,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/Anish1279/POTD/tree/master/2833-furthest-point-from-origin) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anish1279/Anonymous/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -410,6 +415,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1382-balance-a-binary-search-tree](https://github.com/Anish1279/POTD/tree/master/1382-balance-a-binary-search-tree) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anish1279/POTD/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -443,4 +449,8 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Anish1279/POTD/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Anish1279/POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
