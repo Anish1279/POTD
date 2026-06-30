@@ -179,6 +179,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/Anish1279/Anonymous/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/Anish1279/POTD/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anish1279/Anonymous/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anish1279/POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anish1279/Anonymous/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anish1279/Anonymous/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anish1279/Anonymous/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -272,6 +273,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/Anish1279/POTD/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anish1279/Anonymous/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anish1279/POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anish1279/Anonymous/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anish1279/POTD/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -392,6 +394,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anish1279/POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anish1279/Anonymous/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anish1279/Anonymous/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
